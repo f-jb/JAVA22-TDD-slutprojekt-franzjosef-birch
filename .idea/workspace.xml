@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51183c70-673e-47dd-baf3-7cde060995d3" name="Changes" comment="Added mockItem and mockBuffer">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA22-TDD-slutprojekt-franzjosef-birch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/main/Buffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/main/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/main/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/main/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/main/BufferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/main/ItemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/mock/MockBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/mock/MockConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/mock/MockItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/mock/MockProducer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/java/main/Buffer.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/java/main/Consumer.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/java/main/Item.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/java/main/Producer.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2bMGUkHxQi8vlpMYLNGnylQcKmY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.All in JAVA22-TDD-slutprojekt-franzjosef-birch.executor": "Run",
+    "JUnit.BufferTest.addReceiveAnItem.executor": "Run",
+    "JUnit.BufferTest.bufferAddingAndRemoving.executor": "Run",
+    "JUnit.BufferTest.executor": "Coverage",
+    "JUnit.BufferTest.removeFromEmptyBuffer.executor": "Run",
+    "JUnit.BufferTest.removeReceiveAnItem.executor": "Run",
+    "JUnit.BufferTest.removeThenAddToBuffer.executor": "Run",
+    "JUnit.ItemTest.constructCheckTest.executor": "Run",
+    "JUnit.ItemTest.executor": "Coverage",
+    "JUnit.ItemTest.generateItemWithNull.executor": "Run",
+    "JUnit.ItemTest.testToString.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/FRBJ/IdeaProjects/JAVA22-TDD-slutprojekt-franzjosef-birch/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\FRBJ\IdeaProjects\JAVA22-TDD-slutprojekt-franzjosef-birch\src\java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="main" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in JAVA22-TDD-slutprojekt-franzjosef-birch">
+    <configuration name="All in JAVA22-TDD-slutprojekt-franzjosef-birch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVA22-TDD-slutprojekt-franzjosef-birch" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BufferTest.bufferAddingAndRemoving" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVA22-TDD-slutprojekt-franzjosef-birch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.BufferTest" />
+      <option name="METHOD_NAME" value="bufferAddingAndRemoving" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BufferTest.removeFromEmptyBuffer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVA22-TDD-slutprojekt-franzjosef-birch" />
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.BufferTest" />
+      <option name="METHOD_NAME" value="removeFromEmptyBuffer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BufferTest.removeThenAddToBuffer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVA22-TDD-slutprojekt-franzjosef-birch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.BufferTest" />
+      <option name="METHOD_NAME" value="removeThenAddToBuffer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemTest.constructCheckTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVA22-TDD-slutprojekt-franzjosef-birch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.ItemTest" />
+      <option name="METHOD_NAME" value="constructCheckTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in JAVA22-TDD-slutprojekt-franzjosef-birch" />
+        <item itemvalue="JUnit.ItemTest.constructCheckTest" />
+        <item itemvalue="JUnit.BufferTest.removeThenAddToBuffer" />
+        <item itemvalue="JUnit.BufferTest.bufferAddingAndRemoving" />
+        <item itemvalue="JUnit.BufferTest.removeFromEmptyBuffer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51183c70-673e-47dd-baf3-7cde060995d3" name="Changes" comment="" />
+      <created>1706017554422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706017554422</updated>
+      <workItem from="1706017555611" duration="6644000" />
+      <workItem from="1706081365701" duration="11142000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added mockItem and mockBuffer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added mockItem and mockBuffer" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/main/BufferTest.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JAVA22_TDD_slutprojekt_franzjosef_birch$ItemTest.ic" NAME="ItemTest Coverage Results" MODIFIED="1706196120273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JAVA22_TDD_slutprojekt_franzjosef_birch$All_in_JAVA22_TDD_slutprojekt_franzjosef_birch.ic" NAME="All in JAVA22-TDD-slutprojekt-franzjosef-birch Coverage Results" MODIFIED="1706201319899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/JAVA22_TDD_slutprojekt_franzjosef_birch$BufferTest.ic" NAME="BufferTest Coverage Results" MODIFIED="1706196108578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
